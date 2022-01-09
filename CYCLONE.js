@@ -1,6 +1,6 @@
 //INTERACTIVE EXAMPLE:
 
-CYCLONE:
+// CYCLONE:
 // ndv78tscy_o aloOi_8u n78_slakOis ioo4Ps2tlO njlNalsC@_k 
 // mkldz9 @8Iix otLk_87jn o8C_5eCav mk78_akuzI xtO < 3SBB < 3x 
 // mkl8_DFoLe djkn @_xk89s eNk778_r3 nlO7_oBz mk98_ @oxkz 
@@ -8,12 +8,12 @@ CYCLONE:
 // ml9Z_olAbe yOw64pU_X2v 8_zkKal8iu xka09ism ap2 @_J82l mNz9a_iXc 
 // xAraLEx_43va u @eJkLoHs nA29_iPls2 lA_s3o2BTd op0_2kdlm LeC23 @o_m yT2_2aloMw
 
-CLOUDS:
-[m-z\d@_]{7}
-[a-p\d_@]{8}
-[j-s\d_@]{8}
-[p-x\d_@]{9}
-[e-t_@]{8}
+// CLOUDS:
+// [m-z\d@_]{7}
+// [a-p\d_@]{8}
+// [j-s\d_@]{8}
+// [p-x\d_@]{9}
+// [e-t_@]{8}
 
 //Step 1.Head over to https://RegEx101.com
 
