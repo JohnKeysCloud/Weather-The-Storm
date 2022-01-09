@@ -36,8 +36,7 @@
 //“iloveyOu" 
 
 //(´♡‿♡`)
+//(to|from)
 
-//johnbla1r
-//theWonderKid
-//cyclonestudios
-//timecapsuleny
+
+//-wk
