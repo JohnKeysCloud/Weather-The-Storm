@@ -19,7 +19,7 @@
 
 //Step 2.In the bar titled 'REGULAR EXPRESSIONS' find the second forward slash towards the end and click to enable the 'i' insensitive flag and disable all others (for this example).
 
-//Step 2.Copy/paste the 'CYLCONE' into the bar titled "TEST STRING."
+//Step 2.Copy/paste the 'CYLCONE' into the bar titled "TEST STRING" (It's ok if the forward slashes are present).
 
 //Step 3.Nowwww.... If ya will :), copy and paste the FIRST of the CLOUDs listed above ([m-z\d@_]{7}) into the "REGULAR EXPRESSION" bar on top of the page (beware of any whitespaces in the bar).
 //A fragment of the CYCLONE should now be... ILLUMINATED ( ◡‿◡ ).

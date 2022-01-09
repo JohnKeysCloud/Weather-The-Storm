@@ -9,7 +9,7 @@ Steps to solve:
 2. Write down in order from left to right the characters in the fragment that AREN'T targeted by the 'CLOUD'.
 3. Move on to the next 'CLOUD' and repeat until all are solved for and the 'WONDER' is able to be deciphered. 
 
-
+Head ova' to CYCLONE.js for an interactive example and follow da steps there!＼(￣▽￣)／
 
 APPLICATIONS:
 Military and/or Nerdy Love Letters
