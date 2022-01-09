@@ -1,12 +1,7 @@
 //INTERACTIVE EXAMPLE:
 
 // CYCLONE:
-// ndv78tscy_o aloOi_8u n78_slakOis ioo4Ps2tlO njlNalsC@_k 
-// mkldz9 @8Iix otLk_87jn o8C_5eCav mk78_akuzI xtO < 3SBB < 3x 
-// mkl8_DFoLe djkn @_xk89s eNk778_r3 nlO7_oBz mk98_ @oxkz 
-// xfRoM < 3JBB < 3x njK87_acl4 Rta_x34lQ jK_aS73xmO mkL8_sDdN 
-// ml9Z_olAbe yOw64pU_X2v 8_zkKal8iu xka09ism ap2 @_J82l mNz9a_iXc 
-// xAraLEx_43va u @eJkLoHs nA29_iPls2 lA_s3o2BTd op0_2kdlm LeC23 @o_m yT2_2aloMw
+// ndv78tscy_o aloOi_8u n78_slakOis ioo4Ps2tlO njlNalsC@_k mkldz9 @8Iix otLk_87jn o8C_5eCav mk78_akuzI xtO < 3SBB < 3x mkl8_DFoLe djkn @_xk89s eNk778_r3 nlO7_oBz mk98_ @oxkz xfRoM < 3JBB < 3x njK87_acl4 Rta_x34lQ jK_aS73xmO mkL8_sDdN ml9Z_olAbe yOw64pU_X2v 8_zkKal8iu xka09ism ap2 @_J82l mNz9a_iXc xAraLEx_43va u @eJkLoHs nA29_iPls2 lA_s3o2BTd op0_2kdlm LeC23 @o_m yT2_2aloMw
 
 // CLOUDS:
 // [m-z\d@_]{7}
